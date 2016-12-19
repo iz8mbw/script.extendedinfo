@@ -533,7 +533,7 @@ msgstr "Parola chiave"
 
 msgctxt "#32115"
 msgid "Crew"
-msgstr "Cast"
+msgstr "Crew"
 
 msgctxt "#32116"
 msgid "Recommended By TMDB"
@@ -562,11 +562,11 @@ msgstr "Ruoli in Serie TV"
 
 msgctxt "#32122"
 msgid "Movie crew member"
-msgstr "Membro del Cast del film"
+msgstr "Membro della Crew del film"
 
 msgctxt "#32123"
 msgid "TV show crew member"
-msgstr "Membro del Cast della Serie TV"
+msgstr "Membro della Crew della Serie TV"
 
 msgctxt "#32124"
 msgid "Items"
@@ -578,7 +578,7 @@ msgstr "Pagina"
 
 msgctxt "#32126"
 msgid "Actor / Crew member"
-msgstr "Attore / Membro del Cast"
+msgstr "Attore / Membro della Crew"
 
 msgctxt "#32127"
 msgid "Certification"
