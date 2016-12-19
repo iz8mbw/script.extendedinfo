@@ -367,7 +367,7 @@ msgstr "Finito"
 #: \resources\lib\TheMovieDB.py:874
 msgctxt "#32075"
 msgid "Returning series"
-msgstr "Serie che ritornano"
+msgstr "Serie riproposte"
 
 #: \resources\lib\TheMovieDB.py:875
 msgctxt "#32076"
